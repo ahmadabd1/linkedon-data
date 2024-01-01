@@ -4,9 +4,9 @@
   "description": "",
   "main": "generator.js",
   "dependencies": {
-    "mongoose": "^5.4.22"
+    "mongo": "^0.1.0",
+    "mongoose": "^5.13.21"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
